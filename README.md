@@ -29,5 +29,6 @@ student_management.exe    (Windows)
 Follow the menu prompts to manage student records.
 
 **Author:**
-**ALFA CALEB OJONUGWA
-C Programming Intern – CodeAlpha**
+**ALFA CALEB OJONUGWA**
+
+**C Programming Intern – CodeAlpha**

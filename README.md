@@ -1,6 +1,6 @@
-CodeAlpha Student Management System
+**CodeAlpha Student Management System**
 
-Description:
+**Description:**
 The CodeAlpha Student Management System (SMS) is a simple console-based program written in C. It is designed to help manage student information efficiently. Users can add, view, search, update, and delete student records. This project is part of the CodeAlpha C Programming Internship.
 
 Features:
@@ -33,5 +33,5 @@ student_management.exe    (Windows)
 Follow the menu prompts to manage student records.
 
 Author:
-ALFA CALEB OJONUGWA
-C Programming Intern – CodeAlpha
+**ALFA CALEB OJONUGWA
+C Programming Intern – CodeAlpha**
